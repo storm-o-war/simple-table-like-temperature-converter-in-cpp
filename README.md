@@ -4,7 +4,7 @@ simple C++ temperature converter that displays a **table of converted temperatur
 
 ---
 
-## 📖 About
+##  About
 
 This program works like a table for temperature conversion.
 
@@ -38,20 +38,20 @@ K → F
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="554" height="336" alt="Screenshot from 2026-09-14 06-36-49" src="https://github.com/user-attachments/assets/04fd86c1-d5f7-4625-b83c-db419cd88776" />
 
 ---
 
-## 💻 Requirements
+## Requirements
 
 * A C++ compiler
 * GNU Make
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Linux
 
@@ -75,7 +75,7 @@ You can build the program from source by following the instructions below.
 
 ---
 
-## 🛠️ Building From Source
+## Building From Source
 
 Clone the repository:
 
@@ -104,7 +104,7 @@ g++ main.cpp -o main.out
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 Run the program:
 
@@ -134,7 +134,7 @@ The program then generates a table containing the converted values.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 simple-table-like-temperature-converter-in-cpp/
@@ -147,7 +147,7 @@ simple-table-like-temperature-converter-in-cpp/
 
 ---
 
-## 📦 Releases
+## Releases
 
 Check the **[Releases](https://github.com/storm-o-war/simple-table-like-temperature-converter-in-cpp/releases)** section for pre-compiled versions.
 
@@ -157,7 +157,7 @@ Initial release.
 
 ---
 
-## 📝 Changelog
+## Changelog
 
 ### v0.1.0
 
@@ -168,7 +168,7 @@ Initial release.
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 * [x] Basic temperature conversion
 * [x] Input handling
@@ -195,11 +195,11 @@ Build it:
 make
 ```
 
-Make your changes, test them, and submit a pull request.
+Make your changes, test them, and submit a pull request
 
 ---
 
-## 📄 License
+## 📄License
 
 This project is licensed under the **MIT License**.
 
@@ -207,10 +207,10 @@ See [`LICENSE`](LICENSE) for more information.
 
 ---
 
-## 👤 Author
+## Author
 
 **storm-o-war**
 
 ---
 
-> Made with C++
+ Made with C++
